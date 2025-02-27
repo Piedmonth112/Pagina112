@@ -1,0 +1,21 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(215, 243, 250);
+    font-size: 10px;
+}
+
+p {
+   color: blue;
+   font-size: 30px;
+}
+img {
+    width: 300px; /* Cambia el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Hace que la imagen sea un elemento de bloque */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
